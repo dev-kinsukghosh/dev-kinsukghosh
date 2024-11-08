@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @webdevkin
 - 👀 I’m interested in py js mariadb and mysql
 - 🌱 I’m currently learning py
-- 📫 How to reach me - discord=kinsukmc
+- 📫 How to reach me - discord=_webdevkin
 
 <!---
 dev-kinsukghosh/dev-kinsukghosh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
