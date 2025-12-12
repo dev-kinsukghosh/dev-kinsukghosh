@@ -48,6 +48,5 @@
 
 <div align="center">
   <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=webdevkin&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a0f" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=webdevkin&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a0f" alt="Top Langs" />
+   [![webdevkin GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-kinsukghosh)]
 </div>
