@@ -6,7 +6,7 @@
 
 ### 🧑‍💻 About Me
 
-- **Role:** Coder & Helper at **MythicalDash**
+- **Role:** EX Coder & Helper at  **MythicalDash**, Ex Community helper/bug tester at n8n
 - **Focus:** Building robust automations, interactive bots, and sleek websites.
 - **Interests:** Homelab projects, Linux System Administration, and Network Engineering.
 - **Learning:** Currently diving deep into **Python**.
